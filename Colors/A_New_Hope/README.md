@@ -1,5 +1,5 @@
 
-### A New Hope Colors
+### Star Wars Palette: _A New Hope_
 
 ![A New Hope](../images/new_hope.png)
 
