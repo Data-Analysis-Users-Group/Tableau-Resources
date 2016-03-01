@@ -12,7 +12,7 @@
 ```{html}
 <workbook> 
 	 <preferences>
-             <color-palette name="A New Hope" type="regular"> 
+         <color-palette name="A New Hope" type="regular"> 
 			 <color> #155C9D </color> 
 			 <color> #1B4470 </color> 
 			 <color> #1E1D1D </color> 
