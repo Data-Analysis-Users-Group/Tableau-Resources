@@ -17,7 +17,6 @@
 			 <color> #95CC6B </color> 
 			 <color> #B2CBD7 </color> 
 			 <color> #ECF0F0 </color> 
-			 <color> #FEFEFE </color> 
 		 </color-palette> 
 	 </preferences> 
  </workbook>
