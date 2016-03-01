@@ -1,12 +1,14 @@
-## MPCA Logo Colors
+### MPCA Logo Colors
 
 ![MPCA Logo](../images/mpca_colors.png)
 
 ##### Insert the text below to your Tableau `"Preferenecs.tps"` file.  By default this file is located in:  
 > `My Documents\My Tableau Repository`
 
+---  
+
 ##### Palette text:
-```{}
+```{html}
 <workbook> 
 	 <preferences>
          <color-palette name="MPCA Logo" type="regular"> 
