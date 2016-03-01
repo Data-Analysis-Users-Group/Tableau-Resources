@@ -1,4 +1,4 @@
-### MPCA Logo Colors
+### MPCA Logo Palette
 
 ![MPCA Logo](../images/mpca_colors.png)
 
