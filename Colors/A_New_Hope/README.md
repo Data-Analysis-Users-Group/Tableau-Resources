@@ -1,6 +1,14 @@
 
+### A New Hope Colors
 
+![A New Hope](../images/new_hope.png)
 
+##### Insert the text below to your Tableau `"Preferenecs.tps"` file.  By default this file is located in:  
+> `My Documents\My Tableau Repository`
+
+---  
+
+##### Palette text:
 ```{html}
 <workbook> 
 	 <preferences>
