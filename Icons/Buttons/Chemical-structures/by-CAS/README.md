@@ -2,6 +2,6 @@
 
 #### URL format
 For formaldehyde (CAS# 50-00-0)
-> "https://github.com/Data-Analysis-Users-Group/Tableau-Resources/new/master/50-00-0"
+> "https://raw.githubusercontent.com/Data-Analysis-Users-Group/Tableau-Resources/master/Icons/Buttons/Chemical-structures/by-CAS/50-00-0.png"
 
-![Formaldehyde]()
+![Formaldehyde](https://raw.githubusercontent.com/Data-Analysis-Users-Group/Tableau-Resources/master/Icons/Buttons/Chemical-structures/by-CAS/50-00-0.png)
