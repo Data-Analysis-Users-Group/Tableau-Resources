@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Air Toxics Palette
 
-[Air toxics palette](https://github.com/Data-Analysis-Users-Group/Tableau-Resources/tree/master/Colors/Air_Toxics)
+[Link to Github page](https://github.com/Data-Analysis-Users-Group/Tableau-Resources/tree/master/Colors/Air_Toxics)
 
 ![Air Toxics](../images/air_tox_colors.png)
 
