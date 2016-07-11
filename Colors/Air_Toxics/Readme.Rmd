@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ![Air Toxics](../images/air_tox_colors.png)
 
-##### Insert the text below into your Tableau `"Preferenecs.tps"` file.  By default this file is located in:  
+##### Add the text below to your Tableau `"Preferenecs.tps"` file.  By default this file is located in:  
 > `My Documents\My Tableau Repository`
 
 ---  
