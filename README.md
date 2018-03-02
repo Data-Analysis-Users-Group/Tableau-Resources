@@ -8,8 +8,7 @@
 
 
 #### Icons
-- [Pollutant structures]
-- [Buttons]
+- [Pollutant structures](Icons/Buttons/Chemical-structures)
 
 
 #### Images
